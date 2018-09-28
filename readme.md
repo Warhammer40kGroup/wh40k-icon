@@ -38,6 +38,6 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 
 ## Authors
 
-[shitake](@molingyu)
+[shitake](https://github.com/molingyu)
 
 [farvig](http://bakadesign.dk/)
