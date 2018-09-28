@@ -1,0 +1,19 @@
+{
+  "name": "wh40k-icon",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./scripts/font-build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "warhammer40k"
+  ],
+  "author": "shitake",
+  "license": "MIT",
+  "devDependencies": {
+    "glob-expand": "^0.2.1",
+    "webfont": "^8.1.4"
+  }
+}
