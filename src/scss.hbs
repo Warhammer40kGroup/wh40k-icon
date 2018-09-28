@@ -1,0 +1,4 @@
+${{baseClass}}-font-family: {{fontName}};
+
+{% for glyph in glyphs%}${{baseClass}}-{{glyph.name }}: \{{ glyph.unicode[0].charCodeAt(0).toString(16) }};
+{% endfor %}
