@@ -52,7 +52,7 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 
 |Icon|name|font-class|
 |--|--|--|
-|![khorne Symbol](./src/svgs/khorne-symbol-01.svg)|khorne Symbol|`wh40k-khorne-symbol-01`|
+|![Khorne Symbol](./src/svgs/khorne-symbol-01.svg)|khorne Symbol|`wh40k-khorne-symbol-01`|
 
 
 *In pcocessing
@@ -61,9 +61,16 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 
 N/A
 
-### T'au Empire
+### T’au Empire
 
-N/A
+|Icon|name|font-class|
+|--|--|--|
+|![T’au](./src/svgs/tau.svg)|T’au|`wh40k-tau`|
+|![Vior’la](./src/svgs/viorla.svg)|Vior’la|`wh40k-viorla`|
+|![Dal’yth](./src/svgs/dalyth.svg)|Dal’yth|`wh40k-dalyth`|
+|![Sa’cea](./src/svgs/sacea.svg)|Sa’cea|`wh40k-sacea`|
+|![Bork’an](./src/svgs/borkan.svg)|Bork’an|`wh40k-borkan`|
+|![Farsight Enclave](./src/svgs/farsight-enclave.svg)|Farsight Enclave|`wh40k-farsight-enclave`|
 
 ### Tyranids
 
