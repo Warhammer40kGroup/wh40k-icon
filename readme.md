@@ -6,20 +6,6 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 
 ## IconFont
 
-### Unit Type
-
-|Icon|name|font-class|
-|--|--|--|
-|![HQ](./src/svgs/HQ.svg)|HQ|`wh40k-HQ`|
-|![Troops](./src/svgs/troops.svg)|Troops|`wh40k-troops`|
-|![Elites](./src/svgs/elites.svg)|Elites|`wh40k-elites`|
-|![Fast Attack](./src/svgs/fast-attack.svg)|Fast Attack|`wh40k-fast-attack`|
-|![Dedicated Transport](./src/svgs/dedicated-transport.svg)|Dedicated Transport|`wh40k-dedicated-transport`|
-|![Flyer](./src/svgs/flyer.svg)|Flyer|`wh40k-flyer`|
-|![Heavy Support](./src/svgs/heavy-support.svg)|Heavy Support|`wh40k-heavy-support`|
-|![Fortification](./src/svgs/fortification.svg)|Fortification|`wh40k-fortification`|
-|![Lord of War](./src/svgs/lord-of-war.svg)|Lord of War|`wh40k-lord-of-war`|
-
 ### Imperium
 
 |Icon|name|font-class|
@@ -48,6 +34,21 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 
 *In pcocessing
 
+#### Space Wolves
+
+|Icon|name|font-class|
+|--|--|--|
+|![The Bloodmaws](./src/svgs/bloodmaws.svg)|The Bloodmaws|`wh40k-bloodmaws`|
+
+
+#### Adeptus Custodes
+
+N/A
+
+#### Space Marines
+
+N/A
+
 ### Chaos
 
 |Icon|name|font-class|
@@ -57,11 +58,13 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 
 *In pcocessing
 
-### Orks
+### Xenos
+
+#### Orks
 
 N/A
 
-### T’au Empire
+#### T’au Empire
 
 |Icon|name|font-class|
 |--|--|--|
@@ -72,19 +75,35 @@ N/A
 |![Bork’an](./src/svgs/borkan.svg)|Bork’an|`wh40k-borkan`|
 |![Farsight Enclave](./src/svgs/farsight-enclave.svg)|Farsight Enclave|`wh40k-farsight-enclave`|
 
-### Tyranids
+#### Tyranids
 
 N/A
 
-### Necrons
+#### Necrons
 
 N/A
 
-### Eldar
+#### Eldar
 
 N/A
 
-### Other
+### General
+
+#### Unit Type
+
+|Icon|name|font-class|
+|--|--|--|
+|![HQ](./src/svgs/HQ.svg)|HQ|`wh40k-HQ`|
+|![Troops](./src/svgs/troops.svg)|Troops|`wh40k-troops`|
+|![Elites](./src/svgs/elites.svg)|Elites|`wh40k-elites`|
+|![Fast Attack](./src/svgs/fast-attack.svg)|Fast Attack|`wh40k-fast-attack`|
+|![Dedicated Transport](./src/svgs/dedicated-transport.svg)|Dedicated Transport|`wh40k-dedicated-transport`|
+|![Flyer](./src/svgs/flyer.svg)|Flyer|`wh40k-flyer`|
+|![Heavy Support](./src/svgs/heavy-support.svg)|Heavy Support|`wh40k-heavy-support`|
+|![Fortification](./src/svgs/fortification.svg)|Fortification|`wh40k-fortification`|
+|![Lord of War](./src/svgs/lord-of-war.svg)|Lord of War|`wh40k-lord-of-war`|
+
+#### Other
 
 |Icon|name|font-class|
 |--|--|--|
