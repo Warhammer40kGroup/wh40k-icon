@@ -68,6 +68,11 @@ N/A
 
 |Icon|name|font-class|
 |--|--|--|
+|![Fire Caste](./src/svgs/fire-caste.svg)|Fire Caste|`wh40k-fire-caste`|
+|![Earth Caste](./src/svgs/earth-caste.svg)|Earth Caste|`wh40k-earth-caste`|
+|![Water Caste](./src/svgs/water-caste.svg)|Water Caste|`wh40k-water-caste`|
+|![Air Caste](./src/svgs/air-caste.svg)|Air Caste|`wh40k-air-caste`|
+|![Ethereal Caste](./src/svgs/ethereal-caste.svg)|Ethereal Caste|`wh40k-ethereal-caste`|
 |![T’au](./src/svgs/tau.svg)|T’au|`wh40k-tau`|
 |![Vior’la](./src/svgs/viorla.svg)|Vior’la|`wh40k-viorla`|
 |![Dal’yth](./src/svgs/dalyth.svg)|Dal’yth|`wh40k-dalyth`|
