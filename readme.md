@@ -40,7 +40,6 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 |--|--|--|
 |![The Bloodmaws](./src/svgs/bloodmaws.svg)|The Bloodmaws|`wh40k-bloodmaws`|
 
-
 #### Adeptus Custodes
 
 N/A
@@ -54,7 +53,6 @@ N/A
 |Icon|name|font-class|
 |--|--|--|
 |![Khorne Symbol](./src/svgs/khorne-symbol-01.svg)|khorne Symbol|`wh40k-khorne-symbol-01`|
-
 
 *In pcocessing
 
