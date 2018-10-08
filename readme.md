@@ -38,7 +38,7 @@ Free to download Warhammer 40.000 icons as SVG/iconfont.
 
 |Icon|name|font-class|
 |--|--|--|
-|![The Bloodmaws](./src/svgs/bloodmaws.svg)|The Bloodmaws|`wh40k-bloodmaws`|
+|![The Bloodmaws](./src/svgs/Imperium/SpaceWolves/bloodmaws.svg)|The Bloodmaws|`wh40k-bloodmaws`|
 
 #### Adeptus Custodes
 
@@ -66,33 +66,33 @@ N/A
 
 |Icon|name|font-class|
 |--|--|--|
-|![Fire Caste](./src/svgs/fire-caste.svg)|Fire Caste|`wh40k-fire-caste`|
-|![Earth Caste](./src/svgs/earth-caste.svg)|Earth Caste|`wh40k-earth-caste`|
-|![Water Caste](./src/svgs/water-caste.svg)|Water Caste|`wh40k-water-caste`|
-|![Air Caste](./src/svgs/air-caste.svg)|Air Caste|`wh40k-air-caste`|
-|![Ethereal Caste](./src/svgs/ethereal-caste.svg)|Ethereal Caste|`wh40k-ethereal-caste`|
-|![T’au](./src/svgs/tau.svg)|T’au|`wh40k-tau`|
-|![T’au’n](./src/svgs/taun.svg)|T’au’n|`wh40k-taun`|
-|![D’yanoi](./src/svgs/dyanoi.svg)|D’yanoi|`wh40k-dyanoi`|
-|![Bork’an](./src/svgs/borkan.svg)|Bork’an|`wh40k-borkan`|
-|![Dal’yth](./src/svgs/dalyth.svg)|Dal’yth|`wh40k-dalyth`|
-|![Fal’shia](./src/svgs/falshia.svg)|Fal’shia|`wh40k-falshia`|
-|![Vior’la](./src/svgs/viorla.svg)|Vior’la|`wh40k-viorla`|
-|![Sa’cea](./src/svgs/sacea.svg)|Sa’cea|`wh40k-sacea`|
-|![Au’taal](./src/svgs/autaal.svg)|Au’taal|`wh40k-autaal`|
-|![N’dras](./src/svgs/ndras.svg)|N’dras|`wh40k-ndras`|
-|![Ke’lshan](./src/svgs/kelshan.svg)|Ke’lshan|`wh40k-kelshan`|
-|![Elsy’eir](./src/svgs/elsyeir.svg)|Elsy’eir|`wh40k-elsyeir`|
-|![Tash’var](./src/svgs/dalyth.svg)|tashvar|`wh40k-tashvar`|
-|![Vash’ya](./src/svgs/vashya.svg)|Vash’ya|`wh40k-vashya`|
-|![T’olku](./src/svgs/tolku.svg)|T’olku|`wh40k-tolku`|
-|![Ksi’m’yen](./src/svgs/ksimyen.svg)|Ksi’m’yen|`wh40k-ksimyen`|
-|![Fi’rios](./src/svgs/firios.svg)|Fi’rios|`wh40k-firios`|
-|![Mu’gulath Bay](./src/svgs/mugulath-bay.svg)|Mu’gulath Bay|`wh40k-mugulath-bay`|
-|![Fe’saan Sept](./src/svgs/fesaan-sept.svg)|Fe’saan Sept|`wh40k-fefaan-sept`|
-|![Kor’tal Sept](./src/svgs/kortal-sept.svg)|Kor’tal Sept|`wh40k-kortal-sept`|
-|![Yo’vai Sept](./src/svgs/yovai-sept.svg)|Yo’vai Sept|`wh40k-yovai-sept`|
-|![Farsight Enclave](./src/svgs/farsight-enclave.svg)|Farsight Enclave|`wh40k-farsight-enclave`|
+|![Fire Caste](./src/svgs/Xenos/TauEmpire/fire-caste.svg)|Fire Caste|`wh40k-fire-caste`|
+|![Earth Caste](./src/svgs/Xenos/TauEmpire/earth-caste.svg)|Earth Caste|`wh40k-earth-caste`|
+|![Water Caste](./src/svgs/Xenos/TauEmpire/water-caste.svg)|Water Caste|`wh40k-water-caste`|
+|![Air Caste](./src/svgs/Xenos/TauEmpire/air-caste.svg)|Air Caste|`wh40k-air-caste`|
+|![Ethereal Caste](./src/svgs/Xenos/TauEmpire/ethereal-caste.svg)|Ethereal Caste|`wh40k-ethereal-caste`|
+|![T’au](./src/svgs/Xenos/TauEmpire/tau.svg)|T’au|`wh40k-tau`|
+|![T’au’n](./src/svgs/Xenos/TauEmpire/taun.svg)|T’au’n|`wh40k-taun`|
+|![D’yanoi](./src/svgs/Xenos/TauEmpire/dyanoi.svg)|D’yanoi|`wh40k-dyanoi`|
+|![Bork’an](./src/svgs/Xenos/TauEmpire/borkan.svg)|Bork’an|`wh40k-borkan`|
+|![Dal’yth](./src/svgs/Xenos/TauEmpire/dalyth.svg)|Dal’yth|`wh40k-dalyth`|
+|![Fal’shia](./src/svgs/Xenos/TauEmpire/falshia.svg)|Fal’shia|`wh40k-falshia`|
+|![Vior’la](./src/svgs/Xenos/TauEmpire/viorla.svg)|Vior’la|`wh40k-viorla`|
+|![Sa’cea](./src/svgs/Xenos/TauEmpire/sacea.svg)|Sa’cea|`wh40k-sacea`|
+|![Au’taal](./src/svgs/Xenos/TauEmpire/autaal.svg)|Au’taal|`wh40k-autaal`|
+|![N’dras](./src/svgs/Xenos/TauEmpire/ndras.svg)|N’dras|`wh40k-ndras`|
+|![Ke’lshan](./src/svgs/Xenos/TauEmpire/kelshan.svg)|Ke’lshan|`wh40k-kelshan`|
+|![Elsy’eir](./src/svgs/Xenos/TauEmpire/elsyeir.svg)|Elsy’eir|`wh40k-elsyeir`|
+|![Tash’var](./src/svgs/Xenos/TauEmpire/dalyth.svg)|tashvar|`wh40k-tashvar`|
+|![Vash’ya](./src/svgs/Xenos/TauEmpire/vashya.svg)|Vash’ya|`wh40k-vashya`|
+|![T’olku](./src/svgs/Xenos/TauEmpire/tolku.svg)|T’olku|`wh40k-tolku`|
+|![Ksi’m’yen](./src/svgs/Xenos/TauEmpire/ksimyen.svg)|Ksi’m’yen|`wh40k-ksimyen`|
+|![Fi’rios](./src/svgs/Xenos/TauEmpire/firios.svg)|Fi’rios|`wh40k-firios`|
+|![Mu’gulath Bay](./src/svgs/Xenos/TauEmpire/mugulath-bay.svg)|Mu’gulath Bay|`wh40k-mugulath-bay`|
+|![Fe’saan Sept](./src/svgs/Xenos/TauEmpire/fesaan-sept.svg)|Fe’saan Sept|`wh40k-fefaan-sept`|
+|![Kor’tal Sept](./src/svgs/Xenos/TauEmpire/kortal-sept.svg)|Kor’tal Sept|`wh40k-kortal-sept`|
+|![Yo’vai Sept](./src/svgs/Xenos/TauEmpire/yovai-sept.svg)|Yo’vai Sept|`wh40k-yovai-sept`|
+|![Farsight Enclave](./src/svgs/Xenos/TauEmpire/farsight-enclave.svg)|Farsight Enclave|`wh40k-farsight-enclave`|
 
 #### Tyranids
 
@@ -112,24 +112,24 @@ N/A
 
 |Icon|name|font-class|
 |--|--|--|
-|![HQ](./src/svgs/HQ.svg)|HQ|`wh40k-HQ`|
-|![Troops](./src/svgs/troops.svg)|Troops|`wh40k-troops`|
-|![Elites](./src/svgs/elites.svg)|Elites|`wh40k-elites`|
-|![Fast Attack](./src/svgs/fast-attack.svg)|Fast Attack|`wh40k-fast-attack`|
-|![Dedicated Transport](./src/svgs/dedicated-transport.svg)|Dedicated Transport|`wh40k-dedicated-transport`|
-|![Flyer](./src/svgs/flyer.svg)|Flyer|`wh40k-flyer`|
-|![Heavy Support](./src/svgs/heavy-support.svg)|Heavy Support|`wh40k-heavy-support`|
-|![Fortification](./src/svgs/fortification.svg)|Fortification|`wh40k-fortification`|
-|![Lord of War](./src/svgs/lord-of-war.svg)|Lord of War|`wh40k-lord-of-war`|
+|![HQ](./src/svgs/General/UnitType/HQ.svg)|HQ|`wh40k-HQ`|
+|![Troops](./src/svgs/General/UnitType/troops.svg)|Troops|`wh40k-troops`|
+|![Elites](./src/svgs/General/UnitType/elites.svg)|Elites|`wh40k-elites`|
+|![Fast Attack](./src/svgs/General/UnitType/fast-attack.svg)|Fast Attack|`wh40k-fast-attack`|
+|![Dedicated Transport](./src/svgs/General/UnitType/dedicated-transport.svg)|Dedicated Transport|`wh40k-dedicated-transport`|
+|![Flyer](./src/svgs/General/UnitType/flyer.svg)|Flyer|`wh40k-flyer`|
+|![Heavy Support](./src/svgs/General/UnitType/heavy-support.svg)|Heavy Support|`wh40k-heavy-support`|
+|![Fortification](./src/svgs/General/UnitType/fortification.svg)|Fortification|`wh40k-fortification`|
+|![Lord of War](./src/svgs/General/UnitType/lord-of-war.svg)|Lord of War|`wh40k-lord-of-war`|
 
 #### Other
 
 |Icon|name|font-class|
 |--|--|--|
-|![Sword 01](./src/svgs/sword-01.svg)|Sword 01|`wh40k-sword-01`|
-|![Sword 02](./src/svgs/sword-02.svg)|Sword 02|`wh40k-sword-02`|
-|![Sword 03](./src/svgs/sword-03.svg)|Sword 03|`wh40k-sword-03`|
-|![Sword 04](./src/svgs/sword-04.svg)|Sword 04|`wh40k-sword-04`|
+|![Sword 01](./src/svgs/General/Other/sword-01.svg)|Sword 01|`wh40k-sword-01`|
+|![Sword 02](./src/svgs/General/Other/sword-02.svg)|Sword 02|`wh40k-sword-02`|
+|![Sword 03](./src/svgs/General/Other/sword-03.svg)|Sword 03|`wh40k-sword-03`|
+|![Sword 04](./src/svgs/General/Other/sword-04.svg)|Sword 04|`wh40k-sword-04`|
 
 ## Authors
 
