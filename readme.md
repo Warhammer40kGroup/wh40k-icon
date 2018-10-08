@@ -74,10 +74,26 @@ N/A
 |![Air Caste](./src/svgs/air-caste.svg)|Air Caste|`wh40k-air-caste`|
 |![Ethereal Caste](./src/svgs/ethereal-caste.svg)|Ethereal Caste|`wh40k-ethereal-caste`|
 |![T’au](./src/svgs/tau.svg)|T’au|`wh40k-tau`|
-|![Vior’la](./src/svgs/viorla.svg)|Vior’la|`wh40k-viorla`|
-|![Dal’yth](./src/svgs/dalyth.svg)|Dal’yth|`wh40k-dalyth`|
-|![Sa’cea](./src/svgs/sacea.svg)|Sa’cea|`wh40k-sacea`|
+|![T’au’n](./src/svgs/taun.svg)|T’au’n|`wh40k-taun`|
+|![D’yanoi](./src/svgs/dyanoi.svg)|D’yanoi|`wh40k-dyanoi`|
 |![Bork’an](./src/svgs/borkan.svg)|Bork’an|`wh40k-borkan`|
+|![Dal’yth](./src/svgs/dalyth.svg)|Dal’yth|`wh40k-dalyth`|
+|![Fal’shia](./src/svgs/falshia.svg)|Fal’shia|`wh40k-falshia`|
+|![Vior’la](./src/svgs/viorla.svg)|Vior’la|`wh40k-viorla`|
+|![Sa’cea](./src/svgs/sacea.svg)|Sa’cea|`wh40k-sacea`|
+|![Au’taal](./src/svgs/autaal.svg)|Au’taal|`wh40k-autaal`|
+|![N’dras](./src/svgs/ndras.svg)|N’dras|`wh40k-ndras`|
+|![Ke’lshan](./src/svgs/kelshan.svg)|Ke’lshan|`wh40k-kelshan`|
+|![Elsy’eir](./src/svgs/elsyeir.svg)|Elsy’eir|`wh40k-elsyeir`|
+|![Tash’var](./src/svgs/dalyth.svg)|tashvar|`wh40k-tashvar`|
+|![Vash’ya](./src/svgs/vashya.svg)|Vash’ya|`wh40k-vashya`|
+|![T’olku](./src/svgs/tolku.svg)|T’olku|`wh40k-tolku`|
+|![Ksi’m’yen](./src/svgs/ksimyen.svg)|Ksi’m’yen|`wh40k-ksimyen`|
+|![Fi’rios](./src/svgs/firios.svg)|Fi’rios|`wh40k-firios`|
+|![Mu’gulath Bay](./src/svgs/mugulath-bay.svg)|Mu’gulath Bay|`wh40k-mugulath-bay`|
+|![Fe’saan Sept](./src/svgs/fesaan-sept.svg)|Fe’saan Sept|`wh40k-fefaan-sept`|
+|![Kor’tal Sept](./src/svgs/kortal-sept.svg)|Kor’tal Sept|`wh40k-kortal-sept`|
+|![Yo’vai Sept](./src/svgs/yovai-sept.svg)|Yo’vai Sept|`wh40k-yovai-sept`|
 |![Farsight Enclave](./src/svgs/farsight-enclave.svg)|Farsight Enclave|`wh40k-farsight-enclave`|
 
 #### Tyranids
