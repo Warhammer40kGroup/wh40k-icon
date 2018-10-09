@@ -93,6 +93,14 @@ N/A
 |![Kor’tal Sept](./src/svgs/Xenos/TauEmpire/kortal-sept.svg)|Kor’tal Sept|`wh40k-kortal-sept`|
 |![Yo’vai Sept](./src/svgs/Xenos/TauEmpire/yovai-sept.svg)|Yo’vai Sept|`wh40k-yovai-sept`|
 |![Farsight Enclave](./src/svgs/Xenos/TauEmpire/farsight-enclave.svg)|Farsight Enclave|`wh40k-farsight-enclave`|
+|![T’au Number 0](./src/svgs/Xenos/TauEmpire/tau-num0.svg)|T’au Number 0|`wh40k-tau-num0`|
+|![T’au Number 1](./src/svgs/Xenos/TauEmpire/tau-num1.svg)|T’au Number 1|`wh40k-tau-num1`|
+|![T’au Number 2](./src/svgs/Xenos/TauEmpire/tau-num2.svg)|T’au Number 2|`wh40k-tau-num2`|
+|![T’au Number 3](./src/svgs/Xenos/TauEmpire/tau-num3.svg)|T’au Number 3|`wh40k-tau-num3`|
+|![T’au Number 4](./src/svgs/Xenos/TauEmpire/tau-num4.svg)|T’au Number 4|`wh40k-tau-num4`|
+|![T’au Number 7](./src/svgs/Xenos/TauEmpire/tau-num5.svg)|T’au Number 5|`wh40k-tau-num5`|
+|![T’au Number 6](./src/svgs/Xenos/TauEmpire/tau-num6.svg)|T’au Number 6|`wh40k-tau-num6`|
+|![T’au Number 7](./src/svgs/Xenos/TauEmpire/tau-num7.svg)|T’au Number 7|`wh40k-tau-num7`|
 
 #### Tyranids
 
