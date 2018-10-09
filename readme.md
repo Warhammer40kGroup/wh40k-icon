@@ -100,7 +100,20 @@ N/A
 
 #### Necrons
 
-N/A
+|Icon|name|font-class|
+|--|--|--|
+|![Necrons](./src/svgs/Xenos/Necrons/necrons.svg)|Necrons|`wh40k-necrons`|
+|![Necrons Dark](./src/svgs/Xenos/Necrons/necrons-dark.svg)|Necrons Dark|`wh40k-necrons-dark`|
+|![Sautekh Dynasty](./src/svgs/Xenos/Necrons/sautekh.svg)|Sautekh Dynasty|`wh40k-sautekh`|
+|![Sautekh Dynasty Dark](./src/svgs/Xenos/Necrons/sautekh-dark.svg)|Sautekh Dynasty Dark|`wh40k-sautekh-dark`|
+|![Sautekh Overlord Glyphs 1](./src/svgs/Xenos/Necrons/sautekh-overlord-glyphs-1.svg)|Sautekh Overlord Glyphs 1|`wh40k-sautekh-overlord-glyphs-1`|
+|![Sautekh Overlord Glyphs 2](./src/svgs/Xenos/Necrons/sautekh-overlord-glyphs-2.svg)|Sautekh Overlord Glyphs 2|`wh40k-sautekh-overlord-glyphs-2`|
+|![Sautekh Overlord Glyphs 3](./src/svgs/Xenos/Necrons/sautekh-overlord-glyphs-3.svg)|Sautekh Overlord Glyphs 3|`wh40k-sautekh-overlord-glyphs-3`|
+|![Sautekh Overlord Glyphs 4](./src/svgs/Xenos/Necrons/sautekh-overlord-glyphs-4.svg)|Sautekh Overlord Glyphs 4|`wh40k-sautekh-overlord-glyphs-4`|
+|![Sautekh Lord Glyphs 1](./src/svgs/Xenos/Necrons/sautekh-lord-glyphs-1.svg)|Sautekh Lord Glyphs 1|`wh40k-sautekh-lord-glyphs-1`|
+|![Sautekh Lord Glyphs 2](./src/svgs/Xenos/Necrons/sautekh-lord-glyphs-2.svg)|Sautekh Lord Glyphs 2|`wh40k-sautekh-lord-glyphs-2`|
+|![Sautekh Lord Glyphs 3](./src/svgs/Xenos/Necrons/sautekh-lord-glyphs-3.svg)|Sautekh Lord Glyphs 3|`wh40k-sautekh-lord-glyphs-3`|
+|![Sautekh Lord Glyphs 4](./src/svgs/Xenos/Necrons/sautekh-lord-glyphs-4.svg)|Sautekh Lord Glyphs 4|`wh40k-sautekh-lord-glyphs-4`|
 
 #### Eldar
 
