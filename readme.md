@@ -122,6 +122,34 @@ N/A
 |![Sautekh Lord Glyphs 2](./src/svgs/Xenos/Necrons/sautekh-lord-glyphs-2.svg)|Sautekh Lord Glyphs 2|`wh40k-sautekh-lord-glyphs-2`|
 |![Sautekh Lord Glyphs 3](./src/svgs/Xenos/Necrons/sautekh-lord-glyphs-3.svg)|Sautekh Lord Glyphs 3|`wh40k-sautekh-lord-glyphs-3`|
 |![Sautekh Lord Glyphs 4](./src/svgs/Xenos/Necrons/sautekh-lord-glyphs-4.svg)|Sautekh Lord Glyphs 4|`wh40k-sautekh-lord-glyphs-4`|
+|![Mephrit Dynasty](./src/svgs/Xenos/Necrons/mephrit.svg)|Mephrit Dynasty|`wh40k-mephrit`|
+|![Mephrit Dynasty Dark](./src/svgs/Xenos/Necrons/mephrit-dark.svg)|Mephrit Dynasty Dark|`wh40k-mephrit-dark`|
+|![Mephrit Overlord Glyphs 1](./src/svgs/Xenos/Necrons/mephrit-overlord-glyphs-1.svg)|Mephrit Overlord Glyphs 1|`wh40k-mephrit-overlord-glyphs-1`|
+|![Mephrit Overlord Glyphs 2](./src/svgs/Xenos/Necrons/mephrit-overlord-glyphs-2.svg)|Mephrit Overlord Glyphs 2|`wh40k-mephrit-overlord-glyphs-2`|
+|![Mephrit Overlord Glyphs 3](./src/svgs/Xenos/Necrons/mephrit-overlord-glyphs-3.svg)|Mephrit Overlord Glyphs 3|`wh40k-mephrit-overlord-glyphs-3`|
+|![Mephrit Overlord Glyphs 4](./src/svgs/Xenos/Necrons/mephrit-overlord-glyphs-4.svg)|Mephrit Overlord Glyphs 4|`wh40k-mephrit-overlord-glyphs-4`|
+|![Mephrit Lord Glyphs 1](./src/svgs/Xenos/Necrons/mephrit-lord-glyphs-1.svg)|Mephrit Lord Glyphs 1|`wh40k-mephrit-lord-glyphs-1`|
+|![Mephrit Lord Glyphs 2](./src/svgs/Xenos/Necrons/mephrit-lord-glyphs-2.svg)|Mephrit Lord Glyphs 2|`wh40k-mephrit-lord-glyphs-2`|
+|![Mephrit Lord Glyphs 3](./src/svgs/Xenos/Necrons/mephrit-lord-glyphs-3.svg)|Mephrit Lord Glyphs 3|`wh40k-mephrit-lord-glyphs-3`|
+|![Mephrit Lord Glyphs 4](./src/svgs/Xenos/Necrons/mephrit-lord-glyphs-4.svg)|Mephrit Lord Glyphs 4|`wh40k-mephrit-lord-glyphs-4`|
+|![Mephrit Phalanx Glyphs 1](./src/svgs/Xenos/Necrons/mephrit-phalanx-glyphs-1.svg)|Mephrit Phalanx Glyphs 1|`wh40k-mephrit-phalanx-glyphs-1`|
+|![Mephrit Phalanx Glyphs 2](./src/svgs/Xenos/Necrons/mephrit-phalanx-glyphs-2.svg)|Mephrit Phalanx Glyphs 2|`wh40k-mephrit-phalanx-glyphs-2`|
+|![Mephrit Phalanx Glyphs 3](./src/svgs/Xenos/Necrons/mephrit-phalanx-glyphs-3.svg)|Mephrit Phalanx Glyphs 3|`wh40k-mephrit-phalanx-glyphs-3`|
+|![Mephrit Phalanx Glyphs 4](./src/svgs/Xenos/Necrons/mephrit-phalanx-glyphs-4.svg)|Mephrit Phalanx Glyphs 4|`wh40k-mephrit-phalanx-glyphs-4`|
+|![Nephrekh Dynasty](./src/svgs/Xenos/Necrons/nephrekh.svg)|Nephrekh Dynasty|`wh40k-nephrekh`|
+|![Nephrekh Dynasty Dark](./src/svgs/Xenos/Necrons/nephrekh-dark.svg)|Nephrekh Dynasty Dark|`wh40k-nephrekh-dark`|
+|![Nephrekh Overlord Glyphs 1](./src/svgs/Xenos/Necrons/nephrekh-overlord-glyphs-1.svg)|Nephrekh Overlord Glyphs 1|`wh40k-nephrekh-overlord-glyphs-1`|
+|![Nephrekh Overlord Glyphs 2](./src/svgs/Xenos/Necrons/nephrekh-overlord-glyphs-2.svg)|Nephrekh Overlord Glyphs 2|`wh40k-nephrekh-overlord-glyphs-2`|
+|![Nephrekh Overlord Glyphs 3](./src/svgs/Xenos/Necrons/nephrekh-overlord-glyphs-3.svg)|Nephrekh Overlord Glyphs 3|`wh40k-nephrekh-overlord-glyphs-3`|
+|![Nephrekh Overlord Glyphs 4](./src/svgs/Xenos/Necrons/nephrekh-overlord-glyphs-4.svg)|Nephrekh Overlord Glyphs 4|`wh40k-nephrekh-overlord-glyphs-4`|
+|![Nephrekh Lord Glyphs 1](./src/svgs/Xenos/Necrons/nephrekh-lord-glyphs-1.svg)|Nephrekh Lord Glyphs 1|`wh40k-nephrekh-lord-glyphs-1`|
+|![Nephrekh Lord Glyphs 2](./src/svgs/Xenos/Necrons/nephrekh-lord-glyphs-2.svg)|Nephrekh Lord Glyphs 2|`wh40k-nephrekh-lord-glyphs-2`|
+|![Nephrekh Lord Glyphs 3](./src/svgs/Xenos/Necrons/nephrekh-lord-glyphs-3.svg)|Nephrekh Lord Glyphs 3|`wh40k-nephrekh-lord-glyphs-3`|
+|![Nephrekh Lord Glyphs 4](./src/svgs/Xenos/Necrons/nephrekh-lord-glyphs-4.svg)|Nephrekh Lord Glyphs 4|`wh40k-nephrekh-lord-glyphs-4`|
+|![Nephrekh Phalanx Glyphs 1](./src/svgs/Xenos/Necrons/nephrekh-phalanx-glyphs-1.svg)|Nephrekh Phalanx Glyphs 1|`wh40k-nephrekh-phalanx-glyphs-1`|
+|![Nephrekh Phalanx Glyphs 2](./src/svgs/Xenos/Necrons/nephrekh-phalanx-glyphs-2.svg)|Nephrekh Phalanx Glyphs 2|`wh40k-nephrekh-phalanx-glyphs-2`|
+|![Nephrekh Phalanx Glyphs 3](./src/svgs/Xenos/Necrons/nephrekh-phalanx-glyphs-3.svg)|Nephrekh Phalanx Glyphs 3|`wh40k-nephrekh-phalanx-glyphs-3`|
+|![Nephrekh Phalanx Glyphs 4](./src/svgs/Xenos/Necrons/nephrekh-phalanx-glyphs-4.svg)|Nephrekh Phalanx Glyphs 4|`wh40k-nephrekh-phalanx-glyphs-4`|
 
 #### Eldar
 
