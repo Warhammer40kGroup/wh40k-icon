@@ -150,6 +150,20 @@ N/A
 |![Nephrekh Phalanx Glyphs 2](./src/svgs/Xenos/Necrons/nephrekh-phalanx-glyphs-2.svg)|Nephrekh Phalanx Glyphs 2|`wh40k-nephrekh-phalanx-glyphs-2`|
 |![Nephrekh Phalanx Glyphs 3](./src/svgs/Xenos/Necrons/nephrekh-phalanx-glyphs-3.svg)|Nephrekh Phalanx Glyphs 3|`wh40k-nephrekh-phalanx-glyphs-3`|
 |![Nephrekh Phalanx Glyphs 4](./src/svgs/Xenos/Necrons/nephrekh-phalanx-glyphs-4.svg)|Nephrekh Phalanx Glyphs 4|`wh40k-nephrekh-phalanx-glyphs-4`|
+|![Nihilakh Dynasty](./src/svgs/Xenos/Necrons/nihilakh.svg)|Nihilakh Dynasty|`wh40k-nihilakh`|
+|![Nihilakh Dynasty Dark](./src/svgs/Xenos/Necrons/nihilakh-dark.svg)|Nihilakh Dynasty Dark|`wh40k-nihilakh-dark`|
+|![Nihilakh Overlord Glyphs 1](./src/svgs/Xenos/Necrons/nihilakh-overlord-glyphs-1.svg)|Nihilakh Overlord Glyphs 1|`wh40k-nihilakh-overlord-glyphs-1`|
+|![Nihilakh Overlord Glyphs 2](./src/svgs/Xenos/Necrons/nihilakh-overlord-glyphs-2.svg)|Nihilakh Overlord Glyphs 2|`wh40k-nihilakh-overlord-glyphs-2`|
+|![Nihilakh Overlord Glyphs 3](./src/svgs/Xenos/Necrons/nihilakh-overlord-glyphs-3.svg)|Nihilakh Overlord Glyphs 3|`wh40k-nihilakh-overlord-glyphs-3`|
+|![Nihilakh Overlord Glyphs 4](./src/svgs/Xenos/Necrons/nihilakh-overlord-glyphs-4.svg)|Nihilakh Overlord Glyphs 4|`wh40k-nihilakh-overlord-glyphs-4`|
+|![Nihilakh Lord Glyphs 1](./src/svgs/Xenos/Necrons/nihilakh-lord-glyphs-1.svg)|Nihilakh Lord Glyphs 1|`wh40k-nihilakh-lord-glyphs-1`|
+|![Nihilakh Lord Glyphs 2](./src/svgs/Xenos/Necrons/nihilakh-lord-glyphs-2.svg)|Nihilakh Lord Glyphs 2|`wh40k-nihilakh-lord-glyphs-2`|
+|![Nihilakh Lord Glyphs 3](./src/svgs/Xenos/Necrons/nihilakh-lord-glyphs-3.svg)|Nihilakh Lord Glyphs 3|`wh40k-nihilakh-lord-glyphs-3`|
+|![Nihilakh Lord Glyphs 4](./src/svgs/Xenos/Necrons/nihilakh-lord-glyphs-4.svg)|Nihilakh Lord Glyphs 4|`wh40k-nihilakh-lord-glyphs-4`|
+|![Nihilakh Phalanx Glyphs 1](./src/svgs/Xenos/Necrons/nihilakh-phalanx-glyphs-1.svg)|Nihilakh Phalanx Glyphs 1|`wh40k-nihilakh-phalanx-glyphs-1`|
+|![Nihilakh Phalanx Glyphs 2](./src/svgs/Xenos/Necrons/nihilakh-phalanx-glyphs-2.svg)|Nihilakh Phalanx Glyphs 2|`wh40k-nihilakh-phalanx-glyphs-2`|
+|![Nihilakh Phalanx Glyphs 3](./src/svgs/Xenos/Necrons/nihilakh-phalanx-glyphs-3.svg)|Nihilakh Phalanx Glyphs 3|`wh40k-nihilakh-phalanx-glyphs-3`|
+|![Nihilakh Phalanx Glyphs 4](./src/svgs/Xenos/Necrons/nihilakh-phalanx-glyphs-4.svg)|Nihilakh Phalanx Glyphs 4|`wh40k-nihilakh-phalanx-glyphs-4`|
 
 #### Eldar
 
