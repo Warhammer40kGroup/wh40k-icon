@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<g>
+	<circle cx="250" cy="180" r="50"/>
+	<circle cx="250" cy="420" r="30"/>
+	<path d="M305.9,0H194.1L85,181.7L168.5,500h163L415,181.7L305.9,0z M319.3,190c-4.4,30.7-28.6,54.9-59.3,59.3V371
+		c19.6,4,35,19.4,39,39h21v20h-21c-4.6,22.8-24.8,40-49,40s-44.4-17.2-49-40h-21v-20h21c4-19.6,19.4-35,39-39V249.3
+		c-30.7-4.4-54.9-28.6-59.3-59.3H120v-20h60.7c1.7-11.9,6.4-22.8,13.2-31.9l-42.2-42.2l14.1-14.1l42.2,42.2
+		c11.7-8.8,26.2-13.9,41.9-13.9s30.2,5.2,41.9,13.9l42.2-42.2l14.1,14.1l-42.2,42.2c6.9,9.2,11.5,20.1,13.2,31.9H380v20H319.3z"/>
+</g>
+</svg>
