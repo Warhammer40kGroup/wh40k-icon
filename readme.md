@@ -1,3 +1,6 @@
+# SEE https://github.com/Certseeds/wh40k-icon
+The repo has been deprecated.
+
 # Warhammer 40K Icon
 
 Free to download Warhammer 40.000 icons as SVG/iconfont.
